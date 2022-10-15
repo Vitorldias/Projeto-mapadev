@@ -29,13 +29,21 @@ body {
 }
 
 .cartao {
-  background-color: #070d12;
+  background-color: #000000e8;
   width: 370px;
-  border: 2px solid var(--color001);
+  /*border: 2px solid var(--color001);*/
   border-radius: 10px;
   overflow: hidden;
+  
 }
-
+.module-border-wrap {
+  padding: 1rem;
+  position: relative;
+  background: linear-gradient(to right,var(--color005),var(--color001));
+  padding: 3px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 20px #000000
+}
 .cartao .minhas-informacoes {
 padding-top: 20px;
 display: flex;
