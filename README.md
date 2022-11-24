@@ -1,3 +1,7 @@
+## Mini-portfolio
+
+![preview](./.github/Preview.png)
+
 [🔗 Clique aqui para acessar](https://vitorldias.github.io/Projeto-mapadev/)
 
  ## 🛠️ Tecnologias
